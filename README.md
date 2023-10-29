@@ -1,1 +1,1 @@
-# ReactNative-Task
+# Spotify like react native application
